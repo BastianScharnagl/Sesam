@@ -4,25 +4,17 @@
 
 What do you take with you when you leave your home?
 
-
-
 Maybe it is your smartphone.
 
 Did it ever happen to forget your keys?
 
-
-
 Then I have a solution for you:
-
-
 
 ## SESAM
 
 **![](https://lh7-us.googleusercontent.com/E0-pl3nL3ExOdZMx_6eUwDSNWeXVjAr6NyuGaziviQgEORJ94R4GOSuau362Q4mj20f0jqfF1VBBzLraezxc-N_-5-97KIrGAReMbwJmBoBMYeGQLM2C4lQ92mxeK5RLCsC6u716JBGNAEaCJs5Ltio22wuNKXWt=s2048)**
 
 Open your door with smartphone or face recognition
-
-
 
 ### Requirements
 
@@ -31,8 +23,6 @@ NodeMCU, Relay, Electrical Door Opener
 Accessible server (e.g. Raspberry Pi)
 
 Camera
-
-
 
 ### Electrical Circuit
 
@@ -88,3 +78,21 @@ python auth.py
 Build the [Xamarin](https://visualstudio.microsoft.com/de/xamarin/) Project and install it on your Smartphone.
 
 It consists of a QuickSettingsTile and a Button within your app to open the door
+
+
+
+Thanks to all the preliminary work
+
+[GitHub - ageitgey/face_recognition: The world&#39;s simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
+
+[GitHub - Souvikray/Eye-Blink-Detection: An application that can detect and count eye blinks in real time using Dlib](https://github.com/Souvikray/Eye-Blink-Detection/tree/master)
+
+[freshest_camera_frame.py · GitHub](https://gist.github.com/crackwitz/15c3910f243a42dcd9d4a40fcdb24e40)
+
+[GitHub - knolleary/pubsubclient: A client library for the Arduino Ethernet Shield that provides support for MQTT.](https://github.com/knolleary/pubsubclient)
+
+[GitHub - eclipse/mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
+
+[GitHub - davisking/dlib: A toolkit for making real world machine learning and data analysis applications in C++](https://github.com/davisking/dlib)
+
+and many more!
