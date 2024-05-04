@@ -36,6 +36,12 @@ Camera
 
 ### Electrical Circuit
 
+Pin D0 -> Relay Module
+
+Relay Module -> 5-12V 
+
+Relay Module -> Electrical Opener Vin (5-12 V)
+
 ![](C:\Users\bscharnagl\AppData\Roaming\marktext\images\2024-05-04-13-21-23-image.png)
 
 ### Code
