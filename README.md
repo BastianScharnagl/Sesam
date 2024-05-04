@@ -32,7 +32,7 @@ Relay Module -> 5-12V
 
 Relay Module -> Electrical Opener Vin (5-12 V)
 
-![](C:\Users\bscharnagl\Downloads\img.jpg)
+**![](C:\Users\bscharnagl\Downloads\img.jpg)**
 
 ### Code
 
