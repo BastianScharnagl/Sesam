@@ -28,7 +28,7 @@ Camera
 
 Pin D0 -> Relay Module
 
-Relay Module -> 5-12V 
+Relay Module -> 5-12V
 
 Relay Module -> Electrical Opener Vin (5-12 V)
 
