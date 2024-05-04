@@ -10,7 +10,7 @@ Did it ever happen to forget your keys?
 
 Then I have a solution for you:
 
-## SESAM
+## Sesam
 
 **![](https://lh7-us.googleusercontent.com/E0-pl3nL3ExOdZMx_6eUwDSNWeXVjAr6NyuGaziviQgEORJ94R4GOSuau362Q4mj20f0jqfF1VBBzLraezxc-N_-5-97KIrGAReMbwJmBoBMYeGQLM2C4lQ92mxeK5RLCsC6u716JBGNAEaCJs5Ltio22wuNKXWt=s2048)**
 
@@ -80,6 +80,8 @@ Build the [Xamarin](https://visualstudio.microsoft.com/de/xamarin/) Project and 
 It consists of a QuickSettingsTile and a Button within your app to open the door
 
 
+
+## Acknowledgment
 
 Thanks to all the preliminary work
 
