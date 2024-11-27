@@ -1,10 +1,8 @@
 # Project Sesam
 
+Smart Door Opener with Face Recognition and Android App with Quick Settings Tile
+
 # Introduction
-
-What do you take with you when you leave your home?
-
-Maybe it is your smartphone.
 
 Did it ever happen to forget your keys?
 
@@ -78,8 +76,6 @@ python auth.py
 Build the [Xamarin](https://visualstudio.microsoft.com/de/xamarin/) Project and install it on your Smartphone.
 
 It consists of a QuickSettingsTile and a Button within your app to open the door
-
-
 
 ## Acknowledgment
 
