@@ -1,6 +1,7 @@
 # Project Sesam
 
 Smart Door Opener with Face Recognition and Android App with Quick Settings Tile
+BE AWARE OF SECURITY!
 
 # Introduction
 
